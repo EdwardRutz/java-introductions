@@ -3,6 +3,10 @@
 A basic Java console app demonstrating input/output via the console.
 - See this [tutorial](https://teamtreehouse.com/library/java-basics).
 
+## CONCEPTS REVIEWED
+
+- Strings, Variables, input/output to console, intialize variables/null pointer error
+
 ## DEPENDENCIES
 
 - Java v8, Update 161
