@@ -1,4 +1,4 @@
-# Introductions
+# Java Introductions
 
 A basic Java console app demonstrating input/output via the console.
 - See this [tutorial](https://teamtreehouse.com/library/java-basics).

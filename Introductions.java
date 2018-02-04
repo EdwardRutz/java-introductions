@@ -8,10 +8,9 @@ public class Introductions {
   public static void main(String[] args) {
     Console console = System.console();
   
-    console.printf("What is your first name?  ");
     String firstName = console.readLine("What is your first name?  ");
 
-    console.printf("Hello, %s\n", firstName);
+    console.printf("Hello %s, my name is Hal\n", firstName);
     
     String lastName = console.readLine("What is your last name?  ");
 
